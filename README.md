@@ -1,4 +1,4 @@
-# private-ai
+# Privacy Preserving Machine Learning
 
 Notebooks for Udacity's Secure and Private AI Scholarship Challenge by Udacity and Facebook.
 
